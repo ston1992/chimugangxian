@@ -1,6 +1,9 @@
-# chimugangxian
-【重】 Hadoop生态
-HDFS
-Hive
-HBase
-
+# chimugangxian 【重】 Hadoop/Spark生态  
+Sqoop
+FTP
+HDFS  
+Hive  
+HBase  
+Spark  
+Impala  
+Kylin  
